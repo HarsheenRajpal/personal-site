@@ -6,7 +6,7 @@ const data = [
     image: '/images/projects/nearestdollar.jpg',
     date: '2021-04-28',
     desc:
-      'Built for a social impact hackathon. '
+      'Built for a social impact hackathon. Came in top 5 out of 90 teams '
       + 'Estimates the order prediction of a restaurant per day/week '
       + 'and tells the chef how much to buy: reducing food wastage. '
       + 'In case there are still leftovers, donate to a charity of your choice',
