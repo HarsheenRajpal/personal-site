@@ -8,7 +8,7 @@ const Stats = () => {
   const fetchData = useCallback(async () => {
     // request must be authenticated if private
     const res = await fetch(
-      'https://api.github.com/repos/Raynes/tentacles',
+      'https://github.com/KhushiRajpal/personal-site/stargazers',
     );
     const resData = await res.json();
     setResponseData(
