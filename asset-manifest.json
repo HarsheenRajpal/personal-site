@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/=https://github.com/KhushiRajpal/personal-site.git/static/css/main.0e3a025a.chunk.css",
+    "main.js": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/main.2178bdf2.chunk.js",
+    "main.js.map": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/main.2178bdf2.chunk.js.map",
+    "runtime-main.js": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/runtime-main.6a59aed6.js",
+    "runtime-main.js.map": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/runtime-main.6a59aed6.js.map",
+    "static/js/2.9c597b0a.chunk.js": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/2.9c597b0a.chunk.js",
+    "static/js/2.9c597b0a.chunk.js.map": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/2.9c597b0a.chunk.js.map",
+    "static/js/3.ff7b2da9.chunk.js": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/3.ff7b2da9.chunk.js",
+    "static/js/3.ff7b2da9.chunk.js.map": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/3.ff7b2da9.chunk.js.map",
+    "static/js/4.4a668652.chunk.js": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/4.4a668652.chunk.js",
+    "static/js/4.4a668652.chunk.js.map": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/4.4a668652.chunk.js.map",
+    "static/js/5.d42dba99.chunk.js": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/5.d42dba99.chunk.js",
+    "static/js/5.d42dba99.chunk.js.map": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/5.d42dba99.chunk.js.map",
+    "static/js/6.2d7f39b0.chunk.js": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/6.2d7f39b0.chunk.js",
+    "static/js/6.2d7f39b0.chunk.js.map": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/6.2d7f39b0.chunk.js.map",
+    "static/js/7.73589812.chunk.js": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/7.73589812.chunk.js",
+    "static/js/7.73589812.chunk.js.map": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/7.73589812.chunk.js.map",
+    "static/js/8.e008508d.chunk.js": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/8.e008508d.chunk.js",
+    "static/js/8.e008508d.chunk.js.map": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/8.e008508d.chunk.js.map",
+    "static/js/9.12e59d12.chunk.js": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/9.12e59d12.chunk.js",
+    "static/js/9.12e59d12.chunk.js.map": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/9.12e59d12.chunk.js.map",
+    "static/js/10.71e4e07d.chunk.js": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/10.71e4e07d.chunk.js",
+    "static/js/10.71e4e07d.chunk.js.map": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/10.71e4e07d.chunk.js.map",
+    "static/js/11.f21a01ce.chunk.js": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/11.f21a01ce.chunk.js",
+    "static/js/11.f21a01ce.chunk.js.map": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/11.f21a01ce.chunk.js.map",
+    "static/js/12.878fce8b.chunk.js": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/12.878fce8b.chunk.js",
+    "static/js/12.878fce8b.chunk.js.map": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/12.878fce8b.chunk.js.map",
+    "index.html": "/=https://github.com/KhushiRajpal/personal-site.git/index.html",
+    "static/css/main.0e3a025a.chunk.css.map": "/=https://github.com/KhushiRajpal/personal-site.git/static/css/main.0e3a025a.chunk.css.map",
+    "static/js/2.9c597b0a.chunk.js.LICENSE.txt": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/2.9c597b0a.chunk.js.LICENSE.txt",
+    "static/js/3.ff7b2da9.chunk.js.LICENSE.txt": "/=https://github.com/KhushiRajpal/personal-site.git/static/js/3.ff7b2da9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a59aed6.js",
+    "static/js/3.ff7b2da9.chunk.js",
+    "static/css/main.0e3a025a.chunk.css",
+    "static/js/main.2178bdf2.chunk.js"
+  ]
+}
