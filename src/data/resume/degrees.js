@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Modern Education Society: College of Engineering',
+    degree: 'B. Tech : Bachelor of Technology in Computer Science and Engineering',
+    link: 'http://www.mescoepune.org/',
+    year: 2023,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'St. Mary\'s School, Pune',
+    degree: 'ICSE ',
+    link: 'https://www.smspune.com/',
+    year: 2017,
   },
 ];
 
