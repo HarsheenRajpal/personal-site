@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Harsheen. I like building things.
+      <p>I like building things. I &apos;m a 2nd year CSE student and a full stack web developer.
       </p>
       <ul className="actions">
         <li>
@@ -30,7 +30,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Harsheen K. Rajpal <Link to="/">harsheenrajpal.com</Link>.</p>
+      <p className="copyright">&copy; Harsheen K. Rajpal <Link to="/">harsheenk.rajpal.com</Link>.</p>
     </section>
   </section>
 );

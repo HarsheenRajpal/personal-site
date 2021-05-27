@@ -14,7 +14,7 @@ Needless to say, it wasn't a great first parent teacher meeting. 13 years later,
 
 - My mother decided to pursue her Master's in Computer Applications when I was 5. It was then that I was introduced to the world of computers.
 
-- In the summer of 2010, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
+- In the summer of 2010, my uncle purchased GTA for me (Vice city I think) and installed it on my mom's computer. I might have endangered her degree by using her computer too much.
 
 
 Ask me in person for other stories that I'm afraid to share with the internet.
@@ -36,7 +36,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - I have a list of a hundred ideas, like an alarm clock for your night, locking your phone / netflix to make sure I sleep on time (As you can see , they aren't always the best).
 - I almost always have coffee with me.
 - I can't locate every country on a map.
-- I actively mine for Pi.(http://skepticalinvestments.biz/) with terrible returns.
+- I actively mine for Pi with terrible returns.
 - I am a terrible driver.
 
 # I dream of
