@@ -1,4 +1,3 @@
-import dayjs from 'dayjs';
 
 /* Keys match keys returned by the github api. Fields without keys are
  * mostly jokes. To see everything returned by the github api, run:
@@ -11,7 +10,7 @@ const data = [
     link: 'https://github.com/public-apis/public-apis',
   },
  {
-    label: 'Last Updated on ',
+     label: 'Last Updated on ',
     value: '1st August 2021 ',
   },
   {
