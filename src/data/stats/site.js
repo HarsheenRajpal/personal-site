@@ -6,9 +6,9 @@ import dayjs from 'dayjs';
  */
 const data = [
   {
-    label: 'Number of people watching this repository',
+    label: 'Wanna get started with JS, to build things like these : ',
     key: 'subscribers_count',
-    link: 'https://github.com/KhushiRajpal/personal-site/stargazers',
+    link: 'https://github.com/public-apis/public-apis',
   },
   {
     label: 'Number of forks',
