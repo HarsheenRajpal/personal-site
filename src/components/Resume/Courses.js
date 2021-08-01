@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+
 const getRows = (courses) => courses.sort((a, b) => {
   let ret = 0;
   if (a.university > b.university) ret = -1;
