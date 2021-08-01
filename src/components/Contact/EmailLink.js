@@ -14,15 +14,15 @@ const messages = [
   'hola',
   'you-can-email-me-at-literally-anything! Really',
   'well, not anything. But most things',
-  'like-this',
-  'or-this',
-  'but not this :(  ',
-  'you.can.also.email.me.with.specific.topics.like',
-  'just-saying-hi',
+  'like-the-email-to -your-right',
+  'or-github',
+  'or facebook  ',
+  'linked in will also be just fine',
+  'you can say',
   'please-work-for-us',
-  'help',
-  'admin',
-  'or-I-really-like-your-website',
+  'or',
+  'that',
+  'I-really-like-your-website',
   'thanks',
 ];
 
@@ -78,7 +78,7 @@ const EmailLink = () => {
     >
       <a href={validateText(message) ? `mailto:${message}@hkrajpal.com` : ''}>
         <span>{message}</span>
-        <span>@hkrajpal.com</span>
+        <span>.</span>
       </a>
     </div>
   );
