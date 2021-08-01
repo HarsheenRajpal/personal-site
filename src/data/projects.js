@@ -12,15 +12,15 @@ const data = [
       + 'In case there are still leftovers, donate to a charity of your choice',
   },
   {
-    title: 'Social Media Listener',
-    subtitle: 'Intership project',
+    title: 'ACE College Website',
+    subtitle: 'Personal project',
     image: '/images/projects/social-media-listening.png',
-    date: '2020-07-28',
+    date: '2021-04-20',
     desc:
-      'Built as a product for a company '
-      + 'Build using Django Rest Framework and react '
-      + 'Deployed on Heroku'
-      + 'Made for The Small Big Idea',
+      'Built as a product for College'
+      + 'Build using MERN stack'
+      + 'Deployed on Heroku',
+      
   },
 ];
 
