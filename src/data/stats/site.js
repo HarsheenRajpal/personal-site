@@ -9,8 +9,8 @@ const data = [
     link: 'https://github.com/public-apis/public-apis',
   },
  {
-      label: 'Last Updated on ',
-      value: '1st August 2021 ',
+    label: 'Number of spoons',
+    value: '0',
   },
   {
     label: 'Number of forks',
