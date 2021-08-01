@@ -11,9 +11,8 @@ const data = [
     link: 'https://github.com/public-apis/public-apis',
   },
  {
-    label: 'Last Updates on 1st August 2021 ',
-    key: '',
-    link: '",
+    label: 'Last Updated on ',
+    value: '1st August 2021 ',
   },
   {
     label: 'Number of forks',
