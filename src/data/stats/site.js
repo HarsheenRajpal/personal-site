@@ -8,7 +8,7 @@ const data = [
     key: 'subscribers_count',
     link: 'https://github.com/public-apis/public-apis',
   },
- {
+  {
     label: 'Number of spoons',
     value: '0',
   },
