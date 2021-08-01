@@ -12,7 +12,7 @@ const skills = [
     competency: 4,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
-    {
+  {
     title: 'Express.JS',
     competency: 4,
     category: ['Web Development', 'Languages', 'Javascript'],
@@ -37,7 +37,7 @@ const skills = [
     competency: 4,
     category: ['Web Development', 'Databases', 'Languages'],
   },
-    {
+  {
     title: 'MongoDB',
     competency: 4,
     category: ['Web Development', 'Databases', 'Languages'],
