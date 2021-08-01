@@ -19,8 +19,7 @@ const data = [
     desc:
       'Built as a product for College'
       + 'Build using MERN stack'
-      + 'Deployed on Heroku',
-      
+      + 'Deployed on Heroku',  
   },
 ];
 
