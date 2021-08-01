@@ -8,6 +8,16 @@ const skills = [
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
+    title: 'Node.JS',
+    competency: 4,
+    category: ['Web Development', 'Languages', 'Javascript'],
+  },
+    {
+    title: 'Express.JS',
+    competency: 4,
+    category: ['Web Development', 'Languages', 'Javascript'],
+  },
+  {
     title: 'React',
     competency: 3,
     category: ['Web Development', 'Javascript'],
@@ -24,6 +34,11 @@ const skills = [
   },
   {
     title: 'PostgreSQL/SQLite3/SQL',
+    competency: 4,
+    category: ['Web Development', 'Databases', 'Languages'],
+  },
+    {
+    title: 'MongoDB',
     competency: 4,
     category: ['Web Development', 'Databases', 'Languages'],
   },
