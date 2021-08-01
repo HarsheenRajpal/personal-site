@@ -10,6 +10,11 @@ const data = [
     key: 'subscribers_count',
     link: 'https://github.com/public-apis/public-apis',
   },
+ {
+    label: 'Last Updates on 1st August 2021 ',
+    key: '',
+    link: '",
+  },
   {
     label: 'Number of forks',
     key: 'forks',
@@ -19,12 +24,7 @@ const data = [
     label: 'Number of spoons',
     value: '0',
   },
-  {
-    label: 'Last updated at',
-    key: 'pushed_at',
-    link: 'https://github.com/KhushiRajpal/personal-site/commits',
-    format: (x) => dayjs(x).format('MMMM DD, YYYY'),
-  },
+
   {
     // TODO update this with a pre-commit hook
     /* find . | grep ".js" | grep -vE ".min.js|node_modules|.git|.json" |
