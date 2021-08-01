@@ -1,4 +1,3 @@
-
 /* Keys match keys returned by the github api. Fields without keys are
  * mostly jokes. To see everything returned by the github api, run:
  curl https://api.github.com/repos/mldangelo/personal-site
@@ -10,8 +9,8 @@ const data = [
     link: 'https://github.com/public-apis/public-apis',
   },
  {
-     label: 'Last Updated on ',
-    value: '1st August 2021 ',
+      label: 'Last Updated on ',
+      value: '1st August 2021 ',
   },
   {
     label: 'Number of forks',
