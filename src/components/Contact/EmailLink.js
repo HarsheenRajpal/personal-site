@@ -14,7 +14,7 @@ const messages = [
   'hola',
   'you-can-email-me-at-literally-anything! Really',
   'well, not anything. But most things',
-  'like-the-email-to -your-right',
+  'like-the-email-to -your-left',
   'or-github',
   'or facebook  ',
   'linked in will also be just fine',
