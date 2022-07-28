@@ -1,7 +1,7 @@
 
 # Intro
 
-I am a student who secretly might have  gotten used to ( and now likes quarantine ). I do miss going for runs.
+I am a final year student who wants to contribute to projects that create lasting impact.
 
 # Currently
 
