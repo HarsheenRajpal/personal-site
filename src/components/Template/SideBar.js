@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>I like building things. I &apos;m a final year CSE student and a full stack web developer, and devops engineer.
+      <p>I like building things. I &apos;m a final year CSE student and a devops engineer.
       </p>
       <ul className="actions">
         <li>
