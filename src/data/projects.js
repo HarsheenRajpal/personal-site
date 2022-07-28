@@ -21,6 +21,16 @@ const data = [
       + 'Build using MERN stack'
       + 'Deployed on Heroku',
   },
+   {
+    title: 'Microsoft Azure Project',
+    subtitle: 'Personal project',
+    image: '/images/projects/social-media-listening.png',
+    date: '2021-12-20',
+    desc:
+      'Built as part of Azure Certification'
+      + 'Random Restaurant Recommender'
+      + 'Deployed on Azure',
+  },
 ];
 
 export default data;
