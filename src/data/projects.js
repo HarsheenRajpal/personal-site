@@ -18,8 +18,8 @@ const data = [
     date: '2021-04-20',
     desc:
       'Built as a product for College'
-      + 'Build using MERN stack'
-      + 'Deployed on Heroku',
+      'Build using MERN stack'
+      'Deployed on Heroku',
   },
    {
     title: 'Microsoft Azure Project',
